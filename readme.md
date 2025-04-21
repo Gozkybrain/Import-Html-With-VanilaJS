@@ -1,6 +1,6 @@
 # HOW TO IMPORT CONTENTS WITH HTML
 
-There was initially no way around this in the past, even till date you need to utilize some Javascript knowledge to achieve this.
+There was initially no way around this in the past, even till date you need to utilize some Javascript knowledge to achieve this concept.
 
 There are is an effective to import HTML just as we would do in react.
 
